@@ -7,3 +7,5 @@ Power supply
 
 Functions/Scripts
 - timelapse shots & live viewing on demand - interfacing
+- pizero to act as wifi client & server - allowing for variable wifi source channel
+- containerise for easier deployment
